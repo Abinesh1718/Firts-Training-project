@@ -1,0 +1,25 @@
+{
+  "name": "rookieweather",
+  "version": "1.0.0",
+  "description": "This is a Rookie Weather Web application developed by the Rookie devs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type": "module"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studioq-india/rookie-weather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/studioq-india/rookie-weather/issues"
+  },
+  "homepage": "https://github.com/studioq-india/rookie-weather#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "faker": "^5.5.3",
+    "pg": "^8.8.0"
+  }
+}

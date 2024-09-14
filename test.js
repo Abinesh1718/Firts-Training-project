@@ -1,0 +1,27 @@
+var array = [
+  0,
+  1,
+  null,
+  2,
+  "",
+  3,
+  undefined,
+  3,
+  ,
+  ,
+  ,
+  ,
+  ,
+  4,
+  ,
+  4,
+  ,
+  5,
+  ,
+  6,
+  ,
+  ,
+  ,
+];
+
+console.log(filtered);
